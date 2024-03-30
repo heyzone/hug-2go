@@ -1,1 +1,1 @@
-FROM harrywujy/huggingfacekid:latest
+FROM docker.io/harrywujy/huggingfacekid:latest
