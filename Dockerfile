@@ -1,1 +1,1 @@
-FROM docker.io/harrywujy/eoocenodejs-2go:latest
+FROM docker.io/harrywujy/eoocenodejs2go:latest
