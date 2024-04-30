@@ -1,1 +1,1 @@
-FROM docker.io/harrywujy/eooce2go:latest
+FROM docker.io/harrywujy/laowanghg2go:latest
